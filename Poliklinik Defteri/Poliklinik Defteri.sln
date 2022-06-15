@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poliklinik Defteri", "Poliklinik Defteri\Poliklinik Defteri.csproj", "{A64E0C5C-21AC-4BD5-A4C8-057553FEA989}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Poliklinik_Defteri", "Poliklinik_Defteri\Poliklinik_Defteri.vdproj", "{CA0FB1E6-55BD-4CBB-AFA0-C15891351008}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A64E0C5C-21AC-4BD5-A4C8-057553FEA989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A64E0C5C-21AC-4BD5-A4C8-057553FEA989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A64E0C5C-21AC-4BD5-A4C8-057553FEA989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A64E0C5C-21AC-4BD5-A4C8-057553FEA989}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA0FB1E6-55BD-4CBB-AFA0-C15891351008}.Debug|Any CPU.ActiveCfg = Debug
+		{CA0FB1E6-55BD-4CBB-AFA0-C15891351008}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35E24A63-68E1-4785-B074-E2C1E6D7F315}
+	EndGlobalSection
+EndGlobal

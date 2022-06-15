@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a64e0c5c-21ac-4bd5-a4c8-057553fea989": {
+      "ProjectGuid": "a64e0c5c-21ac-4bd5-a4c8-057553fea989",
+      "DisplayName": "Poliklinik Defteri",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

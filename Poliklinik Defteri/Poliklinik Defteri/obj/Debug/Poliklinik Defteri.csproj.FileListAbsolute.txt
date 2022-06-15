@@ -1,0 +1,27 @@
+C:\Users\Ahmet\source\repos\Poliklinik Defteri\Poliklinik Defteri\bin\Debug\Poliklinik Defteri.exe.config
+C:\Users\Ahmet\source\repos\Poliklinik Defteri\Poliklinik Defteri\bin\Debug\Poliklinik Defteri.exe
+C:\Users\Ahmet\source\repos\Poliklinik Defteri\Poliklinik Defteri\bin\Debug\Poliklinik Defteri.pdb
+C:\Users\Ahmet\source\repos\Poliklinik Defteri\Poliklinik Defteri\obj\Debug\Poliklinik Defteri.csproj.AssemblyReference.cache
+C:\Users\Ahmet\source\repos\Poliklinik Defteri\Poliklinik Defteri\obj\Debug\Poliklinik_Defteri.Form1.resources
+C:\Users\Ahmet\source\repos\Poliklinik Defteri\Poliklinik Defteri\obj\Debug\Poliklinik_Defteri.Properties.Resources.resources
+C:\Users\Ahmet\source\repos\Poliklinik Defteri\Poliklinik Defteri\obj\Debug\Poliklinik Defteri.csproj.GenerateResource.cache
+C:\Users\Ahmet\source\repos\Poliklinik Defteri\Poliklinik Defteri\obj\Debug\Poliklinik Defteri.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\source\repos\Poliklinik Defteri\Poliklinik Defteri\obj\Debug\Poliklinik Defteri.exe
+C:\Users\Ahmet\source\repos\Poliklinik Defteri\Poliklinik Defteri\obj\Debug\Poliklinik Defteri.pdb
+C:\Users\Ahmet\source\repos\Poliklinik Defteri\Poliklinik Defteri\obj\Debug\Poliklinik_Defteri.PlanEkleme.resources
+C:\Users\Ahmet\source\repos\Poliklinik Defteri\Poliklinik Defteri\obj\Debug\Poliklinik_Defteri.ReçeteDetay.resources
+C:\Users\Ahmet\source\repos\Poliklinik Defteri\Poliklinik Defteri\obj\Debug\Poliklinik_Defteri.İstekEkranı.resources
+C:\Users\Ahmet\source\repos\Poliklinik Defteri\Poliklinik Defteri\obj\Debug\Poliklinik_Defteri.TaniEkrani.resources
+C:\Users\Ahmet\source\repos\Poliklinik Defteri\Poliklinik Defteri\obj\Debug\Poliklinik_Defteri.LabSonuc.resources
+C:\Users\Ahmet\source\repos\Poliklinik Defteri\Poliklinik Defteri\obj\Debug\Poliklinik_Defteri.Login.resources
+C:\Users\Ahmet\source\repos\Poliklinik Defteri\Poliklinik Defteri\obj\Debug\Poliklinik Defteri.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ahmet\source\repos\Poliklinik Defteri\Poliklinik Defteri\obj\Debug\Poliklinik_Defteri.ForgotPassword.resources
+C:\Users\Ahmet\source\repos\Poliklinik Defteri\Poliklinik Defteri\obj\Debug\Poliklinik_Defteri.DoktorKayit.resources
+C:\Users\Ahmet\source\repos\Poliklinik Defteri\Poliklinik Defteri\obj\Debug\Poliklinik_Defteri.HastaKabul.resources
+C:\Users\Ahmet\source\repos\Poliklinik Defteri\Poliklinik Defteri\obj\Debug\Poliklinik_Defteri.GecmisYakinma.resources
+C:\Users\Ahmet\source\repos\Poliklinik Defteri\Poliklinik Defteri\obj\Debug\Poliklinik_Defteri.ReceteAciklama.resources
+C:\Users\Ahmet\source\repos\Poliklinik Defteri\Poliklinik Defteri\obj\Debug\Poliklinik_Defteri.GecmisBulgular.resources
+C:\Users\Ahmet\source\repos\Poliklinik Defteri\Poliklinik Defteri\obj\Debug\Poliklinik_Defteri.CiktiAl.resources
+C:\Users\Ahmet\source\repos\Poliklinik Defteri\Poliklinik Defteri\obj\Debug\Poliklinik_Defteri.GecmisCikislar.resources
+C:\Users\Ahmet\source\repos\Poliklinik Defteri\Poliklinik Defteri\obj\Debug\Poliklinik_Defteri.GecmisKararlar.resources
+C:\Users\Ahmet\source\repos\Poliklinik Defteri\Poliklinik Defteri\obj\Debug\Poliklinik_Defteri.CagrilanHasta.resources
